@@ -1,15 +1,14 @@
-**Problem Statement**
+## Problem Statement
 
 Corporate training teams lack a secure, automated, Ai assisted project management dashboard to collaborate safely, automate workflows and deliver a governance-aligned solution
-
-**Affected User**
+## Affected User
 
 - Training Team
 - IT administrators
 - External Stakeholders
 - Senior mangement
 
-**Impact Evidence**
+## Impact Evidence
 
 Solving this problem can help the training team:
 
